@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Dabby 👋
 
-<!--
-**Dabby132/Dabby132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student at Babcock University
 
-Here are some ideas to get you started:
+🌱 Currently learning Full-Stack Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about building clean, responsive, and user-friendly web applications.
+
+---
+
+## 🛠 Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- PHP
+- MySQL
+- Java
+- C++
+
+---
+
+## 📂 Featured Projects
+
+🌟 Portfolio Website
+
+🌟 WeKraft Fashion Website
+
+🌟 Birth Registration System
+
+---
+
+## 🌱 Currently Learning
+
+- Git & GitHub
+- Backend Development
+- UI/UX Design
+- Modern JavaScript
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn (Add your LinkedIn profile link here)
+- Portfolio (We'll add it once it's online)
+
+Thanks for stopping by! 😊
