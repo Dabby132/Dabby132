@@ -1,23 +1,27 @@
-# Hi there, I'm Dabby 👋
+# Hi there 👋, I'm Dabby
 
 💻 Software Engineering Student at Babcock University
 
 🌱 Currently learning Full-Stack Web Development
 
-🚀 Passionate about building clean, responsive, and user-friendly web applications.
+✨ Passionate about creating beautiful, responsive and user-friendly web applications.
 
 ---
 
 ## 🛠 Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- Python
-- PHP
-- MySQL
-- Java
-- C++
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,java,cpp,vscode,git,github" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Backend Development
+- Git & GitHub
+- UI/UX Design
+- JavaScript Best Practices
 
 ---
 
@@ -31,18 +35,17 @@
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
 
-- Git & GitHub
-- Backend Development
-- UI/UX Design
-- Modern JavaScript
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dabby132&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📫 Let's Connect
+## 🔥 GitHub Streak
 
-- LinkedIn (Add your LinkedIn profile link here)
-- Portfolio (We'll add it once it's online)
+![GitHub Streak](https://streak-stats.demolab.com?user=Dabby132&theme=tokyonight)
 
-Thanks for stopping by! 😊
+---
+
+## 📫 Connect With Me
+💼 Connect with me on LinkedIn www.linkedin.com/in/anajembadabelu
